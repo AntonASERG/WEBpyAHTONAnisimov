@@ -8,3 +8,5 @@
 ### Формат сдачи
 
 Проект на Python с обязательным использованием Pytest.
+
+VskxsfqHrHraDkuwceXk
